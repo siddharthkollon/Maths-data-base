@@ -1,0 +1,20 @@
+{1(What is 3 + 4?),(7)}
+{2(What is 9 - 5?),(4)}
+{3(What is 2 + 6?),(8)}
+{4(What is 10 - 3?),(7)}
+{5(What is 5 + 5?),(10)}
+{6(What is half of 8?),(4)}
+{7(What number comes next: 2, 4, 6, 8, __?),(10)}
+{8(What is 3 + 3 + 2?),(8)}
+{9(A monkey has 7 bananas and eats 3. How many are left?),(4)}
+{10(There are 4 ducks in a pond. 5 more join them. How many ducks are there?),(9)}
+{11(What is 2 times 3?),(6)}
+{12(What is 12 - 4?),(8)}
+{13(A box has 3 rows of 2 toy cars. How many cars are there?),(6)}
+{14(What is 15 - 7?),(8)}
+{15(What number is 3 more than 6?),(9)}
+{16(A spider has 8 legs. How many legs do 2 spiders have?),(16)}
+{17(What is double of 5?),(10)}
+{18(There are 12 sweets shared equally among 3 children. How many does each child get?),(4)}
+{19(What is 4 + 3 + 5?),(12)}
+{20(A farmer has 5 cows and 4 goats. How many animals does he have?),(9)}
